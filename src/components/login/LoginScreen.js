@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const LoginScreem = () => {
+export const LoginScreen = () => {
     return (
         <div>
-            <h1> Heroes Screem</h1>
+            <h1> Login Screem</h1>
         </div>
     )
 }
