@@ -74,6 +74,7 @@ export const SearchScreen = ({history}) => {
                        (q==='')
                         && <div className="alert alert-info">
                           Search a Heroes
+                          
                         </div>
                    }
                    {
