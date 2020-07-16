@@ -40,6 +40,7 @@ export const Navbar = () => {
                         to="/search"
                     >
                         Search
+                        
                     </NavLink>
 
                 </div>
